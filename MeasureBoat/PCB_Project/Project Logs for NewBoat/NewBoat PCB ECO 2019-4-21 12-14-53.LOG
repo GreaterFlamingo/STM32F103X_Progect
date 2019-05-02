@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=T1 Pin=Pack-9-1
+Removed Pin From Net: NetName=E1 Pin=Pack-9-2
+Removed Pin From Net: NetName=T2 Pin=Pack-9-3
+Removed Pin From Net: NetName=E2 Pin=Pack-9-4
+Removed Pin From Net: NetName=T3 Pin=Pack-9-5
+Removed Pin From Net: NetName=E3 Pin=Pack-9-6
+Removed Pin From Net: NetName=T4 Pin=Pack-9-7
+Removed Pin From Net: NetName=E4 Pin=Pack-9-8
+Added Pin To Net: NetName=E1 Pin=Pack-9-1
+Added Pin To Net: NetName=T1 Pin=Pack-9-2
+Added Pin To Net: NetName=E2 Pin=Pack-9-3
+Added Pin To Net: NetName=T2 Pin=Pack-9-4
+Added Pin To Net: NetName=E3 Pin=Pack-9-5
+Added Pin To Net: NetName=T3 Pin=Pack-9-6
+Added Pin To Net: NetName=E4 Pin=Pack-9-7
+Added Pin To Net: NetName=T4 Pin=Pack-9-8
+Added Room: Name=NewBoat

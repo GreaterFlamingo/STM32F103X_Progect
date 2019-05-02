@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=B5 Pin=P11-1
+Removed Pin From Net: NetName=B6 Pin=P11-2
+Removed Pin From Net: NetName=B7 Pin=P11-3
+Removed Pin From Net: NetName=B8 Pin=P11-4
+Removed Pin From Net: NetName=B1 Pin=P11-5
+Removed Pin From Net: NetName=B2 Pin=P11-6
+Removed Pin From Net: NetName=B3 Pin=P11-7
+Removed Pin From Net: NetName=B4 Pin=P11-8
+Added Pin To Net: NetName=B8 Pin=P11-1
+Added Pin To Net: NetName=B7 Pin=P11-2
+Added Pin To Net: NetName=B6 Pin=P11-3
+Added Pin To Net: NetName=B5 Pin=P11-4
+Added Pin To Net: NetName=B4 Pin=P11-5
+Added Pin To Net: NetName=B3 Pin=P11-6
+Added Pin To Net: NetName=B2 Pin=P11-7
+Added Pin To Net: NetName=B1 Pin=P11-8
+Added Room: Name=NewBoat

@@ -1,0 +1,17 @@
+Added Component: Designator=P?(HDR2X5)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change Net Name : Old Net Name=A8 New Net Name=X3
+Change Net Name : Old Net Name=A11 New Net Name=X4
+Change Net Name : Old Net Name=A12 New Net Name=X2
+Change Net Name : Old Net Name=A15 New Net Name=X5
+Change Net Name : Old Net Name=X6 New Net Name=X1
+Change Net Name : Old Net Name=X7 New Net Name=X6
+Change Net Name : Old Net Name=X8 New Net Name=X7
+Change Net Name : Old Net Name=X9 New Net Name=X8
+Change Net Name : Old Net Name=X10 New Net Name=X9
+Change Net Name : Old Net Name=X11 New Net Name=X10
+Added Member To Class: ClassName=NewBoat Member=Component P? Header 5X2
+Added Room: Name=NewBoat
